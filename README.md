@@ -1,2 +1,2 @@
-# contract-review-redlining-ai-agent
+# Contract-Review-Redlining-AI-Agent
 An AI Agent: for Contract Review &amp; Redlining Assistant (LegalTech)
