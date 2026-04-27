@@ -8,3 +8,7 @@ An AI Agent: for Contract Review &amp; Redlining Assistant (LegalTech)
   <br> 
    <br>
 </h2>
+
+<p>Web Demo: https://handsonlabs.org/LexAI/contract-review-agent.html</p>
+
+<p>Mobile App Demo: https://handsonlabs.org/LexAI/lexai-mobile-demo.html</p>
